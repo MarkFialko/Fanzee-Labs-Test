@@ -1,0 +1,1 @@
+export const MOVIES_CARD_SKELETON_LENGTH = 8;

@@ -1,0 +1,18 @@
+:root {
+    --main-bg-color: #000000;
+    --main-text-color: #FFFFFF;
+
+    --header--primary-color: #292D32;
+    --footer--primary-color: #292D32;
+    --primary-color: #292D32;
+    --accent-color: #702BFE;
+
+    --header-height: 100px;
+
+    --app-badge-green: #039C55;
+    --app-badge-purple: #702BFE;
+    --app-badge-light-blue: #2C81FB;
+    --app-badge-red: #E81A0C;
+}
+
+

@@ -1,0 +1,11 @@
+html,
+body {
+    font-family: Roboto, sans-serif;
+    height: 100%;
+    background: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+#app {
+    height: 100%;
+}
